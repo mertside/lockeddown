@@ -4,7 +4,7 @@ LockedDown: Exploiting Contention on Host-GPU PCIe Bus for Fun and Profit
 ## Abstract
 The deployment of modern graphics processing units (GPUs) has grown rapidly in both traditional and cloud computing. 
 Nevertheless, the potential security issues brought forward by this extensive deployment have not been thoroughly investigated. 
-In this paper, we disclose a new exploitable side-channel vulnerability that ubiquitously exists in systems equipped with modern GPUs. 
+Here, we disclose a new exploitable side-channel vulnerability that ubiquitously exists in systems equipped with modern GPUs. 
 This vulnerability is due to measurable contention caused on the host-GPU PCIe bus. 
 To demonstrate the exploitability of this vulnerability, we conduct two case studies. 
 In the first case study, we exploit the vulnerability to build a cross-VM covert channel that works on virtualized NVIDIA GPUs. 
