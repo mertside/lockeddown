@@ -1,4 +1,6 @@
 # LockedDown: Exploiting Contention on Host-GPU PCIe Bus for Fun and Profit
+https://mertside.com/documents/lockeddown/Mert%20Side%20-%20LockedDown%20Exploiting%20Contention%20on%20Host-GPU%20PCIe%20Bus%20for%20Fun%20and%20Profit.pdf
+
 The deployment of modern graphics processing units (GPUs) has grown rapidly in both traditional and cloud computing. 
 Nevertheless, the potential security issues brought forward by this extensive deployment have not been thoroughly investigated. 
 Here, we disclose a new exploitable side-channel vulnerability that ubiquitously exists in systems equipped with modern GPUs. 
