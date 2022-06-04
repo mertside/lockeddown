@@ -14,7 +14,7 @@ In addition, the attack is evaluated against Tor browser, and up to 90.6% accura
 
 [Paper](https://mertside.com/documents/lockeddown/Mert%20Side%20-%20LockedDown%20Exploiting%20Contention%20on%20Host-GPU%20PCIe%20Bus%20for%20Fun%20and%20Profit.pdf)
  | [Slides](https://mertside.com/documents/lockeddown/Mert%20Side%20-%20LockedDown%20Exploiting%20Contention%20on%20Host-GPU%20PCIe%20Bus%20for%20Fun%20and%20Profit%20-%20Slides.pdf)
-| [Presentation](https://youtu.be/L_TWeUgTms8)
+ | [Presentation](https://youtu.be/L_TWeUgTms8)
 
 ## Technical Support
 If you need assistance, you can contact the developer at: mert (dot) side (at) ttu (dot) edu
