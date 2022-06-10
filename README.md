@@ -12,7 +12,7 @@ In the second case study, we exploit the vulnerability to mount a website finger
 The attack is evaluated against popular browsers like Chrome and Firefox on both Windows and Linux, and the results show that this fingerprinting method can achieve up to 95.2% accuracy. 
 In addition, the attack is evaluated against Tor browser, and up to 90.6% accuracy can be achieved.
 
-[More Information](https://mertside.com/lockeddown)
+[More Information](https://mertside.com/documents/lockeddown/index.html)
 
 ## Technical Support
 If you need assistance, you can contact the developer at: mert (dot) side (at) ttu (dot) edu
